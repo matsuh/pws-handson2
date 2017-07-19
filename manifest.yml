@@ -1,5 +1,5 @@
 ---
 applications:
 - memory: 128M
-  name: app-matsu-02
-  host: appmatsu02 
+  name: app-xxx-02
+  host: appxxx02 
